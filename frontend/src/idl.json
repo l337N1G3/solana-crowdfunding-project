@@ -1,0 +1,26 @@
+{
+    "address": "DXYHWEZyDaa28n8z3tADzgPYahXN5vXSvg8dbziSVZQ7",
+    "metadata": {
+      "name": "new_crowdfunding_project",
+      "version": "0.1.0",
+      "spec": "0.1.0",
+      "description": "Created with Anchor"
+    },
+    "instructions": [
+      {
+        "name": "initialize",
+        "discriminator": [
+          175,
+          175,
+          109,
+          31,
+          13,
+          152,
+          155,
+          237
+        ],
+        "accounts": [],
+        "args": []
+      }
+    ]
+  }
